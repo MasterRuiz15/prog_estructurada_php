@@ -19,9 +19,9 @@
 
         // Asignampos a la variable b el valor 7 como cadena
 
-        $b = "7"
+        $b = "7";
 
-        echo "<h2>Variables</h2>";
+        echo "<h1>Variables</h1>";
 
         // Mostrar el valor de la variable a 
         echo ($a);
