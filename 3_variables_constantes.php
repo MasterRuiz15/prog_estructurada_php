@@ -43,6 +43,7 @@
 
         define("capital_colombia", "Bogotá");
 
+        
     ?>
 </body>
 </html>
